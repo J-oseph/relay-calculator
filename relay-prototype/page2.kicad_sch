@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid cad95551-801d-49cb-b5f6-d886cd6af4d1)
+  (uuid f6bb852d-dc31-41c9-acd3-340855a84e77)
 
   (paper "A4")
 
@@ -655,7 +655,7 @@
     (property "Value" "LED" (at 117.1575 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (at 115.57 38.1 0)
+    (property "Footprint" "LED_THT:LED_D5.0mm" (at 115.57 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 115.57 38.1 0)
@@ -851,7 +851,7 @@
     (property "Value" "LED" (at 117.1575 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (at 115.57 30.48 0)
+    (property "Footprint" "LED_THT:LED_D5.0mm" (at 115.57 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 115.57 30.48 0)
